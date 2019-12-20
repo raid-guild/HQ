@@ -57,4 +57,5 @@ Name / Role for the project
 #### Terms
 
 1/2 to Commence
+
 1/2 upon Completion
