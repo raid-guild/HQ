@@ -1,5 +1,7 @@
 # Raid Guild HQ
 
+`raidguild.eth`
+
 ## WTF is the Raid Guild?
 
 The Raid Guild is a dao for builders to form Raid Parties and team up on epic boss fights (open source web3 projects). Development, Design, Marketing, Product, Cryptoeconomics.
