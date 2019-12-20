@@ -13,7 +13,7 @@ The Raid Guild is a dao for builders to form Raid Parties and team up on epic bo
 
 ## How we work
 
-## Raid Parties
+### Raid Parties
 
 A Raid Party is a small agile team built from members of the Guild. Raid Parties can be formed to tackle both internal and external projects.
 
@@ -31,14 +31,16 @@ Internal projects are our own ideas from the Guild. Can be funded directly by th
 
 Guild Members can interface asynchronously at any time in the Raid Guild HQ chat on Telegram.
 
+[Raid Guild HQ on Telegram](https://t.me/joinchat/IJqu90qbd1YR8-4DpF7z9w)
+
 **Biweekly Standups**
 
 The guild shall have bi-weekly calls for active members to stay engaged.
 
-- Review/discuss current projects (Internal & External)
+- Review/discuss status of current projects (Internal & External)
 - Upcoming projects needs
-- Show & Tell
-- Pitch Projects
+- Show & Tell (Build & Break)
+- Pitch New Projects (Internal or External)
 
 **Hackathons & Global Events**
 In-person Guild Meetups
