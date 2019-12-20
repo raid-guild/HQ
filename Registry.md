@@ -1,6 +1,6 @@
 # Registry of Guild Members
 
-Full [Dao Registry](https://daohaus.club/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+View full registry on-chain at [Daohaus](https://daohaus.club/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
 
 | Name         | Skills                           | Link(s)                                                              | ENS         |
 | ------------ | -------------------------------- | -------------------------------------------------------------------- | ----------- |
