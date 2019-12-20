@@ -17,10 +17,12 @@ External projects can hire the Raid Guild to help them. External projects are ta
 
 ### Internal Projects
 
-Internal projects are our own ideas from the Guild. Funds from the
+Internal projects are our own ideas from the Guild. Can be funded directly by the Guild or an external funder.
 
 ## Links
 
 [Registry of Members](./Registry.md)
-[Internal Project](./InternalProjectMethod.md)
-[External Project](./ExternalProjectMethod.md)
+
+[Internal Project Method](./InternalProjectMethod.md)
+
+[External Project Method](./ExternalProjectMethod.md)
