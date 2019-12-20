@@ -11,7 +11,7 @@ The Raid Guild is a dao for builders to form Raid Parties and team up on epic bo
 - We believe in Web3, and are here to build it, use it, propagate it.
 - We ONLY accept crypto.
 
-## What do we work on?
+## How we work
 
 ### External Projects
 
@@ -20,6 +20,25 @@ External projects can hire the Raid Guild to help them. External projects are ta
 ### Internal Projects
 
 Internal projects are our own ideas from the Guild. Can be funded directly by the Guild or an external funder.
+
+### Meetings and Keeping in Touch
+
+**Async Catchups**
+Guild Members can interface asynchronously at any time in the Raid Guild HQ chat on Telegram.
+
+**Biweekly Standups**
+The guild shall have bi-weekly calls for active members to stay engaged.
+
+- Review/discuss current projects (Internal & External)
+- Upcoming projects needs
+- Show & Tell
+- Pitch Projects
+
+**Hackathons & Global Events**
+In-person Guild Meetups
+
+**Annual Guild Retreats**
+In-person Retreat _somewhere_ in the world.
 
 ## Links
 
