@@ -1,4 +1,4 @@
-# ⚔️ Raid Guild Proposal #1
+# ⚔️ Raid Guild Invoice
 
 ###### Project
 
