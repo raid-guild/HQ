@@ -1,8 +1,8 @@
 # Methodology for forming Raid Parties.
 
-These are notes taken during the first experimental deployment of raid guild members as another raid party to tackle an external project. Please update with any notes as the process unfolds, and enhancements can be made.
+## External Projects
 
-# External Projects
+These are notes taken during the first experimental deployment of raid guild members as another raid party to tackle an external project. Please update with any notes as the process unfolds, and enhancements can be made.
 
 ## Discovery
 
