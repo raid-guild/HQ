@@ -36,7 +36,9 @@ ETA: 3-4 weeks after Design Phase
 ### Raid Party (Team)
 
 Name / Role for the project
+
 Name / Role for the project
+
 Name / Role for the project
 
 #### Assumptions
