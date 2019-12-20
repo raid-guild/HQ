@@ -1,38 +1,27 @@
-# Methodology for forming Raid Parties for external projects.
+# Methodology for forming Raid Parties.
 
 These are notes taken during the first experimental deployment of raid guild members as another raid party to tackle an external project. Please update with any notes as the process unfolds, and enhancements can be made.
 
-Notes:
-
-We ONLY accept crypto. Otherwise, some 3rd party/trust is required and defeats the purpose of the experiment imho.
+# External Projects
 
 ## Discovery
 
-Discuss project with potential client and take notes.
-
-Assemble notes for distro/discussion to Raid Guild. Maybe could have a form?
+Discuss project with potential client and take notes. Assemble notes for distro/discussion to Raid Guild. Maybe could have a form?
 
 ## Form Party
 
-Depending on skill sets required and member availability, select minimum team.
+Depending on skill sets required and member availability, self-organize a minimum team from the [Registry](./Registry.md). This will be the Raid Party for the project.
 
-**Skills required?**
+## Prepare and Submit Proposal to Client for Approval
 
-[Registry](https://www.notion.so/52900e1b24a84c268f854e9f3d89f793)
-
-Members Available? Need calendar of capacity?
-
-## Submit Proposal to Project for Approval
-
-Here's a hackmd template for prepping a proposal.
-[https://hackmd.io/@DVsQ_vgwR-abJL7YEXIxZg/SykfxZGhB/edit](https://hackmd.io/@DVsQ_vgwR-abJL7YEXIxZg/SykfxZGhB/edit)
+In [./Templates](Templates), there is a template for formatting a [./Templates/Proposal.md](Proposal).
 
 ## **Summon a Multisig for the Raid Party**
 
-Spin up a Gnosis Safe for Teams at ⇒ [https://gnosis-safe.io/](https://gnosis-safe.io/)
+- Spin up a Gnosis Safe Multisig at ⇒ [https://gnosis-safe.io/](https://gnosis-safe.io/)
 
-Invite team members
+- Invite team members
 
-Shoot out an invoice to the project
+- Shoot out an [./Templates/Invoice.md](Invoice) to the project
 
 Get cranking!
