@@ -15,5 +15,5 @@ View full registry on-chain at [Daohaus](https://daohaus.club/dao/0xbd6fa666fbb6
 | Peth     | Community, Memes, Content                  | [Twitter](https://twitter.com/petheth)                                   |                 | pethereum@outlook.com    |
 | Rahul S  | Full Stack Dev, Product                    | [Twitter](https://twitter.com/RHLSTHRM)                                  | xrahul.eth      | rahul@connext.network    |
 | Sam K    | Full Stack Dev                             | [Twitter](https://twitter.com/samskuhlmann) [Website](https://odyssy.io) | samkuhlmann.eth | samkuhlmann@odyssy.io    |
-| Tommy C  | Full Stack Dev                             | [Twitter](https://twitter.com/samskuhlmann)                              |                 | tommy.cox@protonmail.com |
+| Tommy C  | Full Stack Dev                             | [Twitter](https://twitter.com/samskuhlmann)                              |                 | drupal.tom@gmail.com     |
 | Ven G    | Visual, UX/UI, Product, Frontend           | [Twitter](https://twitter.com/vengist) [Website](https://odyssy.io)      | vengist.eth     | vengist@odyssy.io        |
