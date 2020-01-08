@@ -2,6 +2,10 @@
 
 `raidguild.eth`
 
+- [Daohaus (Pledging / Membership)](https://daohaus.club/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+- [Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+- [Twitter (twitter)](https://twitter.com/RaidGuild)
+
 # WTF is the Raid Guild?
 
 The Raid Guild is a dao for builders to form Raid Parties and team up on epic boss fights (open source web3 projects). Development, Design, Marketing, Product, Cryptoeconomics.
