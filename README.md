@@ -5,7 +5,7 @@
 - [:japanese_castle: Daohaus (Pledging / Membership)](https://daohaus.club/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
 - [:japanese_ogre: Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
 - [:bird: Twitter (twitter)](https://twitter.com/RaidGuild)
-- [:speech_balloon: Telegram (casual discussion)](https://t.me/joinchat/IJqu90qbd1YR8-4DpF7z9w)
+- [:speech_balloon: Telegram (casual discussion)]
 - [:spider_web: Website](https://raidguild.org)
 
 # WTF is the Raid Guild?
