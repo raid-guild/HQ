@@ -33,11 +33,6 @@ Ven Gist / Design Lead
 
 Eric Chung / Designer
 
-#### Assumptions
-
-- Bullet
-- Bullet
-
 ## Time to Complete
 
 ETA: 1 week from Commencement
