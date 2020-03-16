@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     "Quick Start": ["raidCentral"],
-    "Guild Structure": ["doc1", "doc2", "doc3"],
+    "Guild Structure": ["overview", "glossary", "quests"],
     "Internal Operations": ["mdx"],
     "Project Management": ["mdx"]
   }
