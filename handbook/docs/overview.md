@@ -47,3 +47,13 @@ Tavern Keeper (Community)
 Warrior (Frontend Dev)
 
 Wizard (Smart Contracts)
+
+### Opportunity Rankings
+
+**Projects**
+Amount of loot:
+| Rank | Amount |
+
+---
+
+| Legendary | |

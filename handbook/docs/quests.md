@@ -1,8 +1,10 @@
 ---
 id: quests
-title: Quests
-sidebar_label: Quests
+title: Quest Log
+sidebar_label: Quest Log
 ---
+
+Quests are common tasks that the Guild performs within its operations.
 
 A list of tasks that need done in order to complete quests.
 

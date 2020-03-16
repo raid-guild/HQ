@@ -8,12 +8,18 @@ As a Member of the Guild, these links should help you find your way around.
 
 ## Chats
 
-### [Raid Inn & Tavern](https://t.me/raidtavern)
-
 ### [Guild Discord](https://discord.gg/PvWe9JD)
 
-## Raids & Members
+Main Guild chats
+
+## Raids
 
 ### [Raid Tracker](https://airtable.com/shroSz4GxtXmlzkrv)
 
+A view of all raids.
+
+## Members
+
 ### [Member Registry](https://airtable.com/shrjB8tzceNGRXg9B)
+
+A view of all Members.
