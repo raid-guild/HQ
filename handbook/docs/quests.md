@@ -63,3 +63,15 @@ _If High Grade, continue to [Start a Raid](#start-a-raid)_
 6. [ ] @Treasury Synthesize a Raid Guild Invoice and send to client
 
 7. [ ] @ProjectManager Create a BaseCamp 'Project' and invite Party members.
+
+8. [ ] When Client pays first invoice, all Party Members should request a withdraw of their proportion from the multisig
+
+## Complete a Raid
+
+1. [ ] @Treasury Synthesize a Raid Guild Invoice and send to client
+
+2. [ ] When Client pays final invoice, all Party Members should request a withdraw of their proportion from the multisig
+
+3. [ ] Complete a Raid Retrospective (Template forthcoming)
+
+4. [ ] Share Retrospective with the Guild in order to share learnings from the raid
