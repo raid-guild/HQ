@@ -14,7 +14,7 @@ Look for opportunities to improve processes.
 
 #### What we learned
 
-Place to report new learnings back to the Guild. Anything from methodology improvements to ne technology expertise.
+Place to report new learnings back to the Guild. Anything from methodology improvements to new technology expertise.
 
 #### Loot
 
