@@ -70,8 +70,10 @@ _If High Grade, continue to [Start a Raid](#start-a-raid)_
 
 1. [ ] @Treasury Synthesize a Raid Guild Invoice and send to client
 
-2. [ ] When Client pays final invoice, all Party Members should request a withdraw of their proportion from the multisig
+2. [ ] When Client pays final invoice, all Party Members should request a withdraw of their proportional loot from the multisig
 
-3. [ ] Complete a Raid Retrospective (Template forthcoming)
+3. [ ] Each Party Member should submit a proposal to the dao, sending 10% of their loot and requesting appropriate shares (1 eth = 10 shares, or 1 share = 0.1 eth)
 
-4. [ ] Share Retrospective with the Guild in order to share learnings from the raid
+4. [ ] Complete a Raid Retrospective (Template forthcoming)
+
+5. [ ] Share Retrospective with the Guild in order to share learnings from the raid
