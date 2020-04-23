@@ -33,6 +33,9 @@ This is a quick description of the work being down
 
 ETA: 3-4 weeks after Design Phase
 
+### Finder (Who Brought This Proposal to the Guild)
+Name / Role
+
 ### Raid Party (Team)
 
 Name / Role for the project
