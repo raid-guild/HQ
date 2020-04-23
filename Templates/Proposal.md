@@ -9,6 +9,10 @@ Project Name
 Main Contact at Project
 @telegram, email@gmail.com
 
+###### finder
+
+contact of finder and details
+
 ## Summary of Work
 
 This is a summary of the project's goals through this proposal
