@@ -34,9 +34,7 @@ _If the Guild gives high signal to permit them into the Guild:_
 
 3. [ ] Invite to Discord and distribute roles based on skills (Raid Guild Member + skills).
 
-4. [ ] Invite to Basecamp by email.
-
-5. [ ] Add to Round Table by email.
+4. [ ] Add to Round Table by email.
 
 ## Engage New Client
 
