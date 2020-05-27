@@ -25,11 +25,12 @@
 
 `raidguild.eth`
 
-- [:japanese_castle: Daohaus (Pledging / Membership)](https://daohaus.club/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
-- [:japanese_ogre: Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+- [:japanese_castle: Daohaus (Pledging / Membership)](https://daohaus.club/dao/v2/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
+- [:japanese_ogre: Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
 - [:bird: Twitter](https://twitter.com/RaidGuild)
 - [:speech_balloon: Discord](https://discord.gg/WFYvtw4)
 - [:spider_web: Website](https://raidguild.org)
+- [:book: Handbook](https://handbook.raidguild.org/)
 
 # WTF is the Raid Guild?
 
@@ -58,9 +59,9 @@ Internal projects are our own ideas from the Guild. Can be funded directly by th
 
 **Async Catchups**
 
-Guild Members can interface asynchronously at any time in the Raid Guild HQ chat on Telegram.
+Guild Members can interface asynchronously at any time in the Raid Guild Discord.
 
-[Raid Guild HQ on Telegram](https://t.me/joinchat/IJqu90qbd1YR8-4DpF7z9w)
+[Raid Guild Tavern on Discord](https://discord.gg/Uz9p7rq)
 
 **Biweekly Standups**
 
@@ -78,8 +79,6 @@ In-person Guild Meetups
 In-person Retreat _somewhere_ in the world.
 
 ## Links
-
-[Registry of Members](./Registry.md)
 
 [Internal Project Method](./InternalProjectMethod.md)
 
