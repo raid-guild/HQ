@@ -30,19 +30,7 @@ module.exports = {
     footer: {
       style: "dark",
       links: [
-        {
-          title: "Handbook",
-          items: [
-            {
-              label: "Style Guide",
-              to: "docs/doc1"
-            },
-            {
-              label: "Second Doc",
-              to: "docs/doc2"
-            }
-          ]
-        },
+        {}, // keep this empty object in so the footer objects are "centered" in desktop view
         {
           title: "Community",
           items: [

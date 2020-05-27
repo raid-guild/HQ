@@ -33,7 +33,7 @@ const features = [
     description: (
       <>
         How we collaborate and coordinate is the most important thing for
-        RaidGuild's success. Here's the tools and processes we use to keep
+        RaidGuild's success. Inside you'll find the tools and processes we use to keep
         organized.
       </>
     )
