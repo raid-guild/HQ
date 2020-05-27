@@ -31,6 +31,7 @@
 - [:speech_balloon: Discord](https://discord.gg/WFYvtw4)
 - [:spider_web: Website](https://raidguild.org)
 - [:book: Handbook](https://handbook.raidguild.org/)
+- [:memo: Blog](https://scroll.raidguild.org/)
 
 # WTF is the Raid Guild?
 
