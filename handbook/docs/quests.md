@@ -14,15 +14,15 @@ When you complete a quest, post it in the Discord channel #didathing
 
 ## Apply to join the Guild
 
-1. [ ] Fill out the **Join** form at [Raid Guild](https://raidguild.org)
+1. [ ] Fill out the **Join** form at [Raid Guild](https://raidguild.org/join)
 
 2. [ ] Join the **Guild Discord** and introduce yourself.
 
-3. [ ] Pledge to the Guild on [Daohaus](https://daohaus.club/dao/v1/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+3. [ ] Pledge to the Guild on [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d/proposals/Completed)
 
 _If the Guild gives high signal to permit them into the Guild:_
 
-4. [ ] Submit Proposal to the Guild on [Pokemol](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1)
+4. [ ] Proposal will be sponsored by Guild member on [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d/proposals/Unsponsored)
 
 5. [ ] Wait for Grace Period. If passed, continue to [Onboard New Member](#onboard-new-member).
 
